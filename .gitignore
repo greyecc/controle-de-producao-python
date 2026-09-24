@@ -1,0 +1,13 @@
+# Material pessoal
+estudo/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários do sistema
+Thumbs.db
+.DS_Store

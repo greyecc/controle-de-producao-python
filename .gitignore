@@ -1,6 +1,9 @@
 # Material pessoal
 estudo/
 
+# Arquivos preparados para envio à faculdade
+entrega/
+
 # Arquivos temporários do Python
 __pycache__/
 *.pyc

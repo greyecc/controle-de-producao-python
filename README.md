@@ -62,7 +62,7 @@ O projeto não depende de bibliotecas externas.
 ## Estrutura do projeto
 
 ```text
-TB 3 -
+TB 3 - Controle de Produção
 ├── main.py
 ├── README.md
 ├── documentos/
